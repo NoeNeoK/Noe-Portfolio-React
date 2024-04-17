@@ -22,8 +22,8 @@ const About = () => {
               interfaces that bring ideas to life.
             </p>
             <p>
-              When I'm not coding, you'll likely find me coding or sometimes
-              even coding.
+              When I'm not coding, you'll likely find me at the beach enjoying
+              the sunset.
             </p>
           </div>
           <div className="about-skills">
