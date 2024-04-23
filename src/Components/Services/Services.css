@@ -36,10 +36,12 @@
   grid-template-columns: 1fr 1fr 1fr;
   gap: 40px;
   margin-bottom: 80px;
+  align-items: start;
 }
 .services-format h3 {
   font-size: 28px;
   font-weight: 600;
+  align-self: start;
 }
 .services-format h2 {
   font-size: 38px;
